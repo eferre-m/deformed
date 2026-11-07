@@ -1,10 +1,12 @@
-# DEFORMED · Spain from [City]
+# DEFORMED · Distance is a timetable
+
+*Distance is a timetable.*
+
+**Spain from [City]**: every city has its own Spain.
 
 An experimental cartography of Spain where distance is replaced by
 railway travel time. Pick an origin city: it stays fixed while the rest
 of the territory deforms according to direct train journey times.
-
-> Distance is a timetable
 
 ## Status
 MVP (V0) in planning. Direct connections only, 18 regional capitals.

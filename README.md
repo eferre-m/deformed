@@ -1,4 +1,4 @@
-# DEFORMED · Distance is a timetable
+# DEFORMED
 
 *Distance is a timetable.*
 
